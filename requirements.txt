@@ -1,0 +1,3 @@
+stringcase
+PyMySQL
+jwcrypto
