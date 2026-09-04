@@ -15,7 +15,7 @@ setup(
     version='0.4',
     packages=['bls_pyutils'],
     url='https://github.com/blacklanternsecurity/BLSPyUtils',
-    license='',
+    license='AGPL-3.0',
     author='Chuck Woodraska',
     author_email='chuck@blacklanternsecurity.com',
     description=read('README.md'),
